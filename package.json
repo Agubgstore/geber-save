@@ -1,0 +1,12 @@
+{
+  "name": "geber-save-server",
+  "version": "1.0.0",
+  "description": "Serverless API untuk upload dan menyimpan file preset .geber",
+  "type": "module",
+  "main": "api/save.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node api/save.js"
+  },
+  "dependencies": {}
+}
