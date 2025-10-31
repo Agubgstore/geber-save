@@ -3,5 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "main": "api/save.js",
-  "license": "MIT"
+  "dependencies": {
+    "@vercel/blob": "^0.16.0"
+  }
 }
